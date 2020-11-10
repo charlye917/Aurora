@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=ATmdUWaed4Y&t=49s
 
 ## Capturas de ejemplo
 ![Aurora](imagenes/01.png | width = 100]![Aurora](imagenes/02.png = 250 x 250)]
-![Aurora](imagenes/03.png = 250 x 250)]![Aurora](imagenes/04.png = 250 x 250)]
+![Aurora](imagenes/03.png=250x250)]![Aurora](imagenes/04.png = 250 x 250)]
 ![Aurora](imagenes/05.png = 250 x 250)]![Aurora](imagenes/06.png = 250 x 250)]
 ![Aurora](imagenes/07.png = 250 x 250)]![Aurora](imagenes/08.png = 250 x 250)]
 
