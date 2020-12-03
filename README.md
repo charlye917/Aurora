@@ -6,13 +6,9 @@ Proyecto en android encagado de simular una app empresarial, la cual registrara 
 https://www.youtube.com/watch?v=ATmdUWaed4Y&t=49s
 
 ## Capturas de ejemplo
-<img src="imagenes/01.png" alt="drawing" width="300"/>
-<img src="imagenes/02.png" alt="drawing" width="300"/>
-<img src="imagenes/03.png" alt="drawing" width="300"/>
-<img src="imagenes/04.png" alt="drawing" width="300"/>
-<img src="imagenes/05.png" alt="drawing" width="300"/>
-<img src="imagenes/06.png" alt="drawing" width="300"/>
-<img src="imagenes/07.png" alt="drawing" width="300"/>
-<img src="imagenes/08.png" alt="drawing" width="300"/>
+<img src="imagenes/01.png" alt="drawing" width="300"/>  <img src="imagenes/02.png" alt="drawing" width="300"/>
+<img src="imagenes/03.png" alt="drawing" width="300"/>  <img src="imagenes/04.png" alt="drawing" width="300"/>
+<img src="imagenes/05.png" alt="drawing" width="300"/>  <img src="imagenes/06.png" alt="drawing" width="300"/>
+<img src="imagenes/07.png" alt="drawing" width="300"/>  <img src="imagenes/08.png" alt="drawing" width="300"/>
 
 
